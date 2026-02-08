@@ -6,7 +6,6 @@ class Solution(object):
         """
         l_max=[]
         r_max=[]
-        min_lr=[]
         for i in range(len(height)):
             l=len(height)-1
             if i==0:
